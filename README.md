@@ -1,3 +1,13 @@
+```
+ ____                              ____                _ _             
+/ ___|  ___ _ __  ___  ___  _ __  |  _ \ ___  __ _  __| (_)_ __   __ _ 
+\___ \ / _ \ '_ \/ __|/ _ \| '__| | |_) / _ \/ _` |/ _` | | '_ \ / _` |
+ ___) |  __/ | | \__ \ (_) | |    |  _ <  __/ (_| | (_| | | | | | (_| |
+|____/ \___|_| |_|___/\___/|_|    |_| \_\___|\__,_|\__,_|_|_| |_|\__, |
+                                                                 |___/
+TIMER TRIGGER                                                      
+```
+
 # SENSOR READING TIMER TRIGGER FUNCTION
 
 This is an Azure Timer Trigger function that runs every hour, gets temperature and moisture values from a sensor interface and saves them in an Azure Table.
